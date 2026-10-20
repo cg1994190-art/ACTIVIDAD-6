@@ -1,0 +1,18 @@
+!SESSION 2026-10-19 09:39:05.872 -----------------------------------------------
+eclipse.buildId=4.41.0.20260903-0719
+java.version=25.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-10-19 09:39:14.200
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-10-19 09:39:53.398
+!MESSAGE Logback config file: C:\Users\cata\Pictures\ACTIVIDAD 6\Actividad-js\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.201.20260831-2044.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-10-19 09:40:09.743
+!MESSAGE Atención: no está definida la variable de entorno «HOME». Se usará el siguiente directorio para almacenar la configuración global de usuario de Git y como ubicación predeterminada para guardar los repositorios: «C:\Users\cata».
+En caso contrario se debe definir la variable de entorno «HOME» y reiniciar Eclipse. De no ser así, Git para Windows y Egit se comportarán de manera diferente por estar viendo diferentes opciones de configuración.
+Este aviso se puede desactivar en la página de preferencias de confirmaciones y avisos de colaboración con Git.
